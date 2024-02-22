@@ -14,6 +14,7 @@
 - 👯 I’m looking to collaborate on **web development, or data analytics.**
 
 - 💬 Ask me about **anime, soccer, volleyball.**
+
 ![haikyuu](https://github.com/nauJ120/nauJ120/assets/78055070/7d58960c-feda-43d4-b784-5dea685c59c4)
 
 - 📫 How to reach me **juan.duarte017@hotmail.com**
