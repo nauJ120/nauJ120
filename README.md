@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Diego Pérez</h1>
 <h3 align="center">A fan of data analytics and web development.</h3>
-
-![hxh](https://github.com/nauJ120/nauJ120/assets/78055070/1d682c93-4df0-43e3-8ffd-39b85692ea68)
+<aside>
+  ![hxh](https://github.com/nauJ120/nauJ120/assets/78055070/1d682c93-4df0-43e3-8ffd-39b85692ea68)
+</aside>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nauj120&label=Profile%20views&color=0e75b6&style=flat" alt="nauj120" /> </p>
 
