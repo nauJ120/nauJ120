@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Diego Pérez</h1>
 <h3 align="center">A fan of data analytics and web development.</h3>
 
+![hxh](https://github.com/nauJ120/nauJ120/assets/78055070/1d682c93-4df0-43e3-8ffd-39b85692ea68)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nauj120&label=Profile%20views&color=0e75b6&style=flat" alt="nauj120" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nauj120" alt="nauj120" /></a> </p>
@@ -12,6 +14,7 @@
 - 👯 I’m looking to collaborate on **web development, or data analytics.**
 
 - 💬 Ask me about **anime, soccer, volleyball.**
+![haikyuu](https://github.com/nauJ120/nauJ120/assets/78055070/7d58960c-feda-43d4-b784-5dea685c59c4)
 
 - 📫 How to reach me **juan.duarte017@hotmail.com**
 
